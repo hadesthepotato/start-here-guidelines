@@ -2564,6 +2564,8 @@
 
 - [@Getcodin](https://github.com/get-codin)
 
+- [@hadesthepotato](https://github.com/hadesthepotato)
+
 - [@Gfx23](https://github.com/GFX23)
 
 - [@Ghaiththamer](https://github.com/GhaithThamer/)
@@ -8995,7 +8997,6 @@
 - [@lukagva](https://github.com/lukagva)
 
 - [@Hana-Wang](https://github.com/Hana-Wang)
-
 
 - [@Hana-Wang] (https://github.com/Vishalsharma843)
 
